@@ -23,5 +23,5 @@ Things you may want to cover:
 
 * ...
 # bookers2-debug
-# bookers2-debug3
+# bookers2-Function addition3
 # bookers2-Function-addition4
