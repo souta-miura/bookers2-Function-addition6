@@ -26,3 +26,4 @@ Things you may want to cover:
 # bookers2-Function addition3
 # bookers2-Function-addition4
 # bookers2-Function-addition5
+# bookers2-Function-addition6
